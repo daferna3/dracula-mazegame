@@ -24,8 +24,8 @@ def main():
     
     # textures
 
-    wall_texture = maze_gen.loadTexture('sprites/wall_texture.png')
-    floor_texture = maze_gen.loadTexture('sprites/floor_texture.png')
+    wall_texture = maze_gen.loadTexture('backgrounds/wall_texture.png')
+    floor_texture = maze_gen.loadTexture('backgrounds/floor_texture.png')
     holy_water_tex = maze_gen.loadTexture('sprites/holy_water.png')
     lantern_tex = maze_gen.loadTexture('sprites/lantern.png')
     mirror_tex = maze_gen.loadTexture('sprites/mirror.png')
